@@ -40,7 +40,6 @@ Ini adalah tempat untuk menyalin template gambar
 
 ![tenor](https://github.com/oky15net/Lora-Set/assets/133633500/3153db5a-5b0e-449a-a75c-3a3f0a560208)
 
-```sh
-1girl, standing, white t-shirt, short sleeves, pink short skirt, blonde hair, wavy hair, 
-hair betwen eyes, hair between breast, medium breast, armspit, bed, 
-```
+| Gambar                                  | Deskripsi                                                                                    |
+| --------------------------------------- | -------------------------------------------------------------------------------------------- |
+| <img width="256" alt="" src="https://github.com/Mikubill/sd-webui-controlnet/blob/main/samples/sk-b-src.png?raw=true"> | `1girl, standing, white t-shirt, short sleeves, pink short skirt, blonde hair, wavy hair, hair between eyes, hair between breast, medium breast, armspit, bed` |                                                                   
